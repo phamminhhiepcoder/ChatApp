@@ -1,6 +1,6 @@
-package com.alibou.websocket.controller;
+package com.demo.websocket.controller;
 
-import com.alibou.websocket.entity.ChatMessage;
+import com.demo.websocket.entity.ChatMessage;
 import org.springframework.messaging.handler.annotation.MessageMapping;
 import org.springframework.messaging.handler.annotation.Payload;
 import org.springframework.messaging.handler.annotation.SendTo;

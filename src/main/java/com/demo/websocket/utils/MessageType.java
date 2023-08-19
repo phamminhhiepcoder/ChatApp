@@ -1,4 +1,4 @@
-package com.alibou.websocket.utils;
+package com.demo.websocket.utils;
 
 public enum MessageType {
 

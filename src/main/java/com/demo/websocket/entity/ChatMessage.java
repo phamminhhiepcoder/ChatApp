@@ -1,6 +1,6 @@
-package com.alibou.websocket.entity;
+package com.demo.websocket.entity;
 
-import com.alibou.websocket.utils.MessageType;
+import com.demo.websocket.utils.MessageType;
 import lombok.*;
 
 @Getter
